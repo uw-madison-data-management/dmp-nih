@@ -11,6 +11,8 @@ OSF: <a href = "http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-d
 
 **NIH Policies**
 
+<a href = "https://osp.od.nih.gov/wp-content/uploads/Data_Sharing_Policy_Proposed_Provisions.pdf" target = "_blank">Proposed Provisions for a Draft NIH Data Management And Sharing Policy</a>
+
 <a href = "https://grants.nih.gov/grants/policy/data_sharing/" target = "_blank">NIH Data Sharing Policy</a>
 
 <a href = "https://osp.od.nih.gov/wp-content/uploads/NIH_GDS_Policy.pdf" target = "_blank">NIH Genomic Data Sharing Policy</a>
