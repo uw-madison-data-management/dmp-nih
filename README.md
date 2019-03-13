@@ -21,6 +21,8 @@ OSF: <a href = "http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-d
 
 <a href = "https://policymanual.nih.gov/3016" target = "_blank">NIH Intramural Research Program Human Data Sharing Policy</a>
 
+<a href = "https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf" target = "_blank">NIH Strategic Plan for Data Science</a>
+
 <a href = "https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html" target = "_blank">NIH Data Sharing Repositories</a>
 
 **DMPTool Resources**
