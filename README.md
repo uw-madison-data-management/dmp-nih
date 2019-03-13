@@ -1,6 +1,8 @@
 # dmp-nih
 Resources for using DMPTool to create a data management plan for NIH grant funding
 
+Survey for feedback on the workshop: <a href = "http://bit.ly/2XT42gL" target = "_blank">Survey</a>
+
 **General Resources**
 
 UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/learn-about-data-management/" target = "_blank">Learn About Data Management</a>
