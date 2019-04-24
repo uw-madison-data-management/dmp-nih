@@ -5,7 +5,7 @@ Survey for feedback on the workshop: <a href = "http://bit.ly/2XT42gL" target = 
 
 **General Resources**
 
-UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/learn-about-data-management/" target = "_blank">Learn About Data Management</a>
+UW-Madison Research Data Services: <a href = "http://researchdata.wisc.edu/http://researchdata.wisc.edu/how-to-create-a-dmp/" target = "_blank">How to Create a Data Management Plan</a>
 
 OSF: <a href = "http://help.osf.io/m/bestpractices/l/618767-how-to-make-a-data-dictionary" target = "_blank">How to Make a Data Dictionary</a>
 
